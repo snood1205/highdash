@@ -1,0 +1,7 @@
+const ¯ = () => {
+    return '¯';
+};
+
+module.exports {
+    ¯
+};
